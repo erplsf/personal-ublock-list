@@ -1,0 +1,2 @@
+www.immobilienscout24.de##li[class*=result-list]:has(h2:has-text(/Wohnungstausch|Tauschwohnung/))
+www.immowelt.de##div[class*=EstateItem]:has(h2:has-text(TAUSCHWOHNUNG))
